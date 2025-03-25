@@ -21,4 +21,7 @@ Run `npm run dev` to start the server with nodemon for hot reloading.
 ## intializing and pushing the changes to git repository
 
 git init
-
+git add .
+git commit -m 'inital commit for creating a node js project with github actions'
+git remote add origin https://github.com/yourusername/node-api.git
+git push -u origin master
