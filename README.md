@@ -25,3 +25,8 @@ git add .
 git commit -m 'inital commit for creating a node js project with github actions'
 git remote add origin https://github.com/yourusername/node-api.git
 git push -u origin master
+
+## add yaml file in .github/workflows for githubactions
+
+## adding tests
+npm install --save-dev jest supertest
